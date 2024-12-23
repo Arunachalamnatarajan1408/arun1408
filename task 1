@@ -1,0 +1,26 @@
+//conditional statement
+
+  let mark = 24;
+
+  if(mark >= 90){
+    console.log("A GRADE")
+    }
+    
+    else if (mark >= 80){
+        console.log("B GRADE");
+        
+    }
+    
+
+
+
+
+ 
+
+ 
+    
+
+
+
+
+
